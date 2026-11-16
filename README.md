@@ -201,3 +201,4 @@ If you have want to add a link or improve some descriptions, feel free to open a
 | [Ycombinator](https://news.ycombinator.com/) |   |
 | [YouNoodle](https://ww2.younoodle.com/startups/) |   |
 | [Your Story](https://profiles.yourstory.com/) |   |
+| [SaaSCity](https://saascity.io) | Gamified SaaS directory — every listing becomes a building on a live isometric city map |
